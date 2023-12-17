@@ -1,0 +1,17 @@
+{
+    "robando_señal": "Robando Señal",
+    "desguace": "Desguace de Señales",
+    "señal_parar": "Señal \"Parar\"",
+    "señal_personas_caminando": "Señal \"Personas Caminando\"",
+    "no_bloquear_interseccion": "No bloquee las intersecciones",
+    "señal_u": "Señal U",
+    "no_estacionar": "Señal \"No Estacionarse\"",
+    "girar_izquierda": "Señal \"Girar a la Izquierda\"",
+    "girar_derecha": "Señal \"Girar a la Derecha\"",
+    "no_pasar": "Señal \"Prohibido el paso\"",
+    "ceder_el_paso": "Señales \"Ceder el paso\"",
+    "robar_señal": "Robar Señal",
+    "cancelado": "Cancelado",
+    "fallaste": "Fallaste el Robo",
+    "ya_casi": "Casi logras robar la señal"
+}
