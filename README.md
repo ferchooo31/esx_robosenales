@@ -1,5 +1,6 @@
 ### Dependencias:
 * [ox_target](https://github.com/overextended/ox_target)
+* [ox_lib](https://github.com/overextended/ox_lib)
 * [nakres_skill_minigame](https://github.com/NNakreSS/nakres_skill_minigame/tree/main)
 * [dpemotes](https://github.com/andristum/dpemotes)
 
