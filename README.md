@@ -1,21 +1,18 @@
-### Dependencias:
+### Dependencies:
 * [ox_target](https://github.com/overextended/ox_target)
-* [ox_lib](https://github.com/overextended/ox_lib)
+* [ox_lib](https://github.com/overextended/ox_target)
 * [nakres_skill_minigame](https://github.com/NNakreSS/nakres_skill_minigame/tree/main)
-* [dpemotes](https://github.com/andristum/dpemotes)
+* [es_extended](https://github.com/esx-framework/esx_core)
 
 <br>
 <br>
 
-### Paso 1:
-Instala el script y arrastra esx_robosenales en la carpeta de tus scripts.
-
-### Paso 2:
-Abre el script y dirígete a **esx_robosenales/imagenes** despúes coloca las imagenes dentro de la carpeta de imagenes de tu **inventario**.
-
-
-### Paso 3: 
-Coloca los siguientes items dentro de tu inventario:
+### Installation:
+* Download ZIP
+* Drag and drop resource into your resources folder.
+* Start resource
+* Add Images into your inventory script
+* Add Items into Inventory scripts
 
 * [ox_inventory](https://github.com/overextended/ox_inventory)
 ```lua
@@ -74,6 +71,8 @@ Coloca los siguientes items dentro de tu inventario:
 		close = false,
 	},
 ```
+
+### OR
 
 * [qs-inventory](https://buy.quasar-store.com/package/5677336)
 ```lua
@@ -216,6 +215,6 @@ Coloca los siguientes items dentro de tu inventario:
 ```
 
 
-### Creditos:
-Este script fue convertido de QBCore a ESX. Sacado de los siguientes creadores:
-[Hyper](https://github.com/itsHyper) y [Snipe (pushkart2)](https://github.com/pushkart2) Este script no sería posible sin ellos.
+### Credits:
+This script was converted from QBCore to ESX. Taken from the following creators:
+[Hyper](https://github.com/itsHyper) and [Snipe (pushkart2)](https://github.com/pushkart2) This script wouldn't be possible without them.
